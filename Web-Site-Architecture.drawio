@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2024-06-07T14:32:05.998Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.5.1 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="Ct1lac9ry8VcuMLESSl0" version="24.5.1" type="device">
+<mxfile host="Electron" modified="2024-06-14T12:09:26.867Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.5.3 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="wfDJ6TeEDHvqUpMLcZY8" version="24.5.3" type="device">
   <diagram name="Page-1" id="IkxKJkdX--L61CE8ZRZl">
-    <mxGraphModel dx="2072" dy="1312" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -55,8 +55,11 @@
         <mxCell id="5IE1w3P0u9trT_t2EDOO-18" value="INSTAGRAM" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="790" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="t1tFbK2gKZdnnJyqFHD8-1" value="https://www.pinterest.fr/daweedlesaintpe/web-design/" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="t1tFbK2gKZdnnJyqFHD8-1" value="https://www.pinterest.fr/daweedlesaintpe/web-design/" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="10" y="20" width="510" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AaZFqslJdvkd4EaA3iA9-1" value="WIRE FRAME" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="580" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
