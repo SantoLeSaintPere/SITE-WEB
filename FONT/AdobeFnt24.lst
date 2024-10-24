@@ -1,0 +1,232 @@
+%!Adobe-FontList 1.24
+%Locale:0x40c
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\david\Documents\GitHub\SITE-WEB\Font\Faune_Fonts\._Instructions.pdf
+FileModTime:1729758762
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\david\Documents\GitHub\SITE-WEB\Font\Faune_Fonts\._Otf
+FileModTime:1729758762
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\david\Documents\GitHub\SITE-WEB\Font\Faune_Fonts\._Webfonts
+FileModTime:1729758762
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\david\Documents\GitHub\SITE-WEB\Font\Faune_Fonts\.__DS_Store
+FileModTime:1729758762
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\david\Documents\GitHub\SITE-WEB\Font\Faune_Fonts\Instructions.pdf
+FileModTime:1729758762
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Faune-DisplayBlack
+FamilyName:Faune
+StyleName:Display Black
+FullName:Faune Black
+MenuName:Faune Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\david\Documents\GitHub\SITE-WEB\Font\Faune_Fonts\Otf\Faune-DisplayBlack.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:78864
+FileModTime:1729758762
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Faune Display Black
+NameArray:0,Mac,4,Faune Black
+NameArray:0,Win,1,Faune Black
+NameArray:0,Win,16,Faune
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Faune-DisplayBoldItalic
+FamilyName:Faune
+StyleName:Display Bold Italic
+FullName:Faune BoldItalic
+MenuName:Faune BoldItalic
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\david\Documents\GitHub\SITE-WEB\Font\Faune_Fonts\Otf\Faune-DisplayBoldItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:89772
+FileModTime:1729758762
+WeightClass:800
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,18,Faune Display Bold Italic
+NameArray:0,Mac,4,Faune BoldItalic
+NameArray:0,Win,1,Faune BoldItalic
+NameArray:0,Win,16,Faune
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Faune-DisplayThin
+FamilyName:Faune
+StyleName:Display Thin
+FullName:Faune Thin
+MenuName:Faune Thin
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\david\Documents\GitHub\SITE-WEB\Font\Faune_Fonts\Otf\Faune-DisplayThin.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:72624
+FileModTime:1729758762
+WeightClass:250
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Faune Display Thin
+NameArray:0,Mac,4,Faune Thin
+NameArray:0,Win,1,Faune Thin
+NameArray:0,Win,16,Faune
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Faune-TextBold
+FamilyName:Faune
+StyleName:Text Bold
+FullName:Faune Text Bold
+MenuName:Faune Text
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\david\Documents\GitHub\SITE-WEB\Font\Faune_Fonts\Otf\Faune-TextBold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:80104
+FileModTime:1729758762
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Faune Text Bold
+NameArray:0,Win,1,Faune Text
+NameArray:0,Win,16,Faune
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Faune-TextItalic
+FamilyName:Faune
+StyleName:Text Italic
+FullName:Faune Text Italic
+MenuName:Faune Text
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\david\Documents\GitHub\SITE-WEB\Font\Faune_Fonts\Otf\Faune-TextItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:93236
+FileModTime:1729758762
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Faune Text Italic
+NameArray:0,Win,1,Faune Text
+NameArray:0,Win,16,Faune
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Faune-TextRegular
+FamilyName:Faune
+StyleName:Text Regular
+FullName:Faune Text
+MenuName:Faune Text
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\david\Documents\GitHub\SITE-WEB\Font\Faune_Fonts\Otf\Faune-TextRegular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:78776
+FileModTime:1729758762
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Faune Text Regular
+NameArray:0,Mac,4,Faune Text
+NameArray:0,Win,1,Faune Text
+NameArray:0,Win,16,Faune
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\david\Documents\GitHub\SITE-WEB\Font\Faune_Fonts\Webfonts\._Webfonts
+FileModTime:1729758762
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\david\Documents\GitHub\SITE-WEB\Font\Faune_Fonts\Webfonts\._webfont-css.txt
+FileModTime:1729758762
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\david\Documents\GitHub\SITE-WEB\Font\Faune_Fonts\Webfonts\webfont-css.txt
+FileModTime:1729758762
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\david\Documents\GitHub\SITE-WEB\Font\Faune_Fonts\_DS_Store
+FileModTime:1729758762
+%EndFont
+
