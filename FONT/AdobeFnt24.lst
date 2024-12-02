@@ -5,35 +5,35 @@
 Handler:DirectoryHandler
 FontType:Invalid
 OutlineFileName:C:\Users\david\Documents\GitHub\SITE-WEB\Font\Faune_Fonts\._Instructions.pdf
-FileModTime:1729758762
+FileModTime:1729841480
 %EndFont
 
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
 OutlineFileName:C:\Users\david\Documents\GitHub\SITE-WEB\Font\Faune_Fonts\._Otf
-FileModTime:1729758762
+FileModTime:1729841480
 %EndFont
 
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
 OutlineFileName:C:\Users\david\Documents\GitHub\SITE-WEB\Font\Faune_Fonts\._Webfonts
-FileModTime:1729758762
+FileModTime:1729841480
 %EndFont
 
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
 OutlineFileName:C:\Users\david\Documents\GitHub\SITE-WEB\Font\Faune_Fonts\.__DS_Store
-FileModTime:1729758762
+FileModTime:1729841480
 %EndFont
 
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
 OutlineFileName:C:\Users\david\Documents\GitHub\SITE-WEB\Font\Faune_Fonts\Instructions.pdf
-FileModTime:1729758762
+FileModTime:1729841480
 %EndFont
 
 %BeginFont
@@ -54,7 +54,7 @@ hasSVG:no
 hasCOLR:no
 VariableFontType:NonVariableFont
 FileLength:78864
-FileModTime:1729758762
+FileModTime:1729841480
 WeightClass:900
 WidthClass:5
 AngleClass:0
@@ -82,7 +82,7 @@ hasSVG:no
 hasCOLR:no
 VariableFontType:NonVariableFont
 FileLength:89772
-FileModTime:1729758762
+FileModTime:1729841480
 WeightClass:800
 WidthClass:5
 AngleClass:1
@@ -110,7 +110,7 @@ hasSVG:no
 hasCOLR:no
 VariableFontType:NonVariableFont
 FileLength:72624
-FileModTime:1729758762
+FileModTime:1729841480
 WeightClass:250
 WidthClass:5
 AngleClass:0
@@ -138,7 +138,7 @@ hasSVG:no
 hasCOLR:no
 VariableFontType:NonVariableFont
 FileLength:80104
-FileModTime:1729758762
+FileModTime:1729841480
 WeightClass:700
 WidthClass:5
 AngleClass:0
@@ -165,7 +165,7 @@ hasSVG:no
 hasCOLR:no
 VariableFontType:NonVariableFont
 FileLength:93236
-FileModTime:1729758762
+FileModTime:1729841480
 WeightClass:400
 WidthClass:5
 AngleClass:1
@@ -192,7 +192,7 @@ hasSVG:no
 hasCOLR:no
 VariableFontType:NonVariableFont
 FileLength:78776
-FileModTime:1729758762
+FileModTime:1729841480
 WeightClass:400
 WidthClass:5
 AngleClass:0
@@ -206,27 +206,27 @@ NameArray:0,Win,16,Faune
 Handler:DirectoryHandler
 FontType:Invalid
 OutlineFileName:C:\Users\david\Documents\GitHub\SITE-WEB\Font\Faune_Fonts\Webfonts\._Webfonts
-FileModTime:1729758762
+FileModTime:1729841480
 %EndFont
 
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
 OutlineFileName:C:\Users\david\Documents\GitHub\SITE-WEB\Font\Faune_Fonts\Webfonts\._webfont-css.txt
-FileModTime:1729758762
+FileModTime:1729841480
 %EndFont
 
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
 OutlineFileName:C:\Users\david\Documents\GitHub\SITE-WEB\Font\Faune_Fonts\Webfonts\webfont-css.txt
-FileModTime:1729758762
+FileModTime:1729841480
 %EndFont
 
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
 OutlineFileName:C:\Users\david\Documents\GitHub\SITE-WEB\Font\Faune_Fonts\_DS_Store
-FileModTime:1729758762
+FileModTime:1729841480
 %EndFont
 
