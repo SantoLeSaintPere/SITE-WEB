@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2024-06-14T12:09:26.867Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.5.3 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="wfDJ6TeEDHvqUpMLcZY8" version="24.5.3" type="device">
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.2.15 Chrome/134.0.6998.205 Electron/35.2.1 Safari/537.36" version="26.2.15">
   <diagram name="Page-1" id="IkxKJkdX--L61CE8ZRZl">
-    <mxGraphModel dx="1050" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1198" dy="862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,7 +38,7 @@
           <mxGeometry x="440" y="280" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="5IE1w3P0u9trT_t2EDOO-9" value="PROJECT&lt;div&gt;2014-2012&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
-          <mxGeometry x="640" y="280" width="120" height="120" as="geometry" />
+          <mxGeometry x="690" y="260" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="5IE1w3P0u9trT_t2EDOO-19" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="5IE1w3P0u9trT_t2EDOO-15" target="5IE1w3P0u9trT_t2EDOO-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -58,8 +58,11 @@
         <mxCell id="t1tFbK2gKZdnnJyqFHD8-1" value="https://www.pinterest.fr/daweedlesaintpe/web-design/" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="10" y="20" width="510" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AaZFqslJdvkd4EaA3iA9-1" value="WIRE FRAME" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="AaZFqslJdvkd4EaA3iA9-1" value="WIRE FRAME" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4_i3bUi4CTJhBxX-yt5F-1" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;DRAW.IO&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="440" width="420" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
